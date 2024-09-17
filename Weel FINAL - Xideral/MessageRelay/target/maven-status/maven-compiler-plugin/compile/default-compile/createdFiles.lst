@@ -1,0 +1,6 @@
+messagerelay\service\MessageService.class
+messagerelay\repository\MessageRepository.class
+messagerelay\controller\MessageController.class
+messagerelay\MessageRelayApplication.class
+messagerelay\model\Message.class
+messagerelay\config\SecurityConfig.class

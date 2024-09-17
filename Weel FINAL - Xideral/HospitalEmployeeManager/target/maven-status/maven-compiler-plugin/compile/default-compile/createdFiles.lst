@@ -1,0 +1,6 @@
+com\hospitalApp\HospitalApplication.class
+com\hospitalApp\rest\EmployeeController.class
+com\hospitalApp\dao\EmployeeRepository.class
+com\hospitalApp\service\EmployeeServiceImpl.class
+com\hospitalApp\entity\Employee.class
+com\hospitalApp\service\EmployeeService.class
